@@ -1,2 +1,5 @@
 .idea/
 h2_db.*.db
+
+.gradle
+**/build/
